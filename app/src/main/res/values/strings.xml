@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Labs</string>
+    <string name="Close">Close</string>
+    <string name="Next_Page">Next Page</string>
+    <string name="MainActivity">Main Activity</string>
+    <string name="MainActivity2">Main Activity 2</string>
+</resources>
